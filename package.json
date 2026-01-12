@@ -32,5 +32,13 @@
     "mailgen": "^2.0.32",
     "mongoose": "^9.0.2",
     "nodemailer": "^7.0.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhur2004Singh/PROJECT_MANAGEMENT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Madhur2004Singh/PROJECT_MANAGEMENT/issues"
+  },
+  "homepage": "https://github.com/Madhur2004Singh/PROJECT_MANAGEMENT#readme"
 }
